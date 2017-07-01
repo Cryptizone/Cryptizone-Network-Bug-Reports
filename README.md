@@ -1,4 +1,4 @@
-# Cryptizone Network GitHub Page
+# Cryptizone Network GitHub Bug Reports Page
 
 This is the place for people to report bugs for the Cryptizone Network.
 
