@@ -1,6 +1,6 @@
 # Cryptizone Network GitHub Page
 
-This is the place for people to report bugs or request features for the Cryptizone Network.
+This is the place for people to report bugs for the Cryptizone Network.
 
 ## Reporting a Bug
 
